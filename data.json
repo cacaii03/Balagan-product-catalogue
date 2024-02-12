@@ -3,7 +3,8 @@
         "product_name": "Granola Bars",
         "product_description": "Granola bars are a convenient and portable snack made from a mixture of rolled oats, nuts, seeds, and sweeteners like honey or maple syrup. ",
         "product_price": 125.98,
-        "product_dateAdded": "February 06,2024"
+        "product_dateAdded": "February 06,2024",
+        "product_Expirationdate": "February 23,2025"
     },
     {
         "product_name": "Greek Yogurt",
