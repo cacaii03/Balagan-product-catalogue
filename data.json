@@ -10,19 +10,21 @@
         "product_name": "Greek Yogurt",
         "product_description": "Greek yogurt is a thick and creamy dairy product made by straining regular yogurt to remove excess whey.",
         "product_price": 150.44,
-        "product_dateAdded": "February 07,2024"
+        "product_dateAdded": "February 07,2024",
+        "product_Expirationdate": "september 13,2027"
     },
     {
         "product_name": "Salmon Fillets",
         "product_description": " Salmon fillets are portions of salmon, a popular fatty fish rich in omega-3 fatty acids.",
         "product_price": 149.49,
-        "product_dateAdded": "February 08,2024"
+        "product_dateAdded": "February 08,2024",
+        "product_Expirationdate": "april 23,2029"
     },
     {
         "product_name": "Avocado Oil",
         "product_description": "Avocado oil is a cooking oil extracted from the pulp of ripe avocados.",
         "product_price": 128.90,
-        "product_dateAdded": "February 09,2024"
+        "product_dateAdded": "September 14,2027"
     },
     {
         "product_name": "Quinoa Salad Kit",
