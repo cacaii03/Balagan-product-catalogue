@@ -24,12 +24,14 @@
         "product_name": "Avocado Oil",
         "product_description": "Avocado oil is a cooking oil extracted from the pulp of ripe avocados.",
         "product_price": 128.90,
-        "product_dateAdded": "September 14,2027"
+        "product_dateAdded": "September 14,2027",
+        "product_Expirationdate": "april 12 ,2028"
     },
     {
         "product_name": "Quinoa Salad Kit",
         "product_description": "Quinoa salad kits are pre-packaged meal solutions that typically include cooked and seasoned quinoa, along with a variety of fresh vegetables, herbs, and dressing. ",
         "product_price": 200.90,
-        "product_dateAdded": "February 10,2024"
+        "product_dateAdded": "February 10,2024",
+        "product_Expirationdate": "march 22,2026"
     }
 ]
